@@ -4,6 +4,20 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "test-shared-module": "bulentv/test-shared-module#semver:^1.0.1"
-  }
+    "test-shared-module": "github:bulentv/test-shared-module#semver:^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulentv/test-main-project.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/bulentv/test-main-project/issues"
+  },
+  "homepage": "https://github.com/bulentv/test-main-project#readme",
+  "description": ""
 }
